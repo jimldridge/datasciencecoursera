@@ -1,2 +1,2 @@
 # datasciencecoursera
-place put in homework
+Place to put homework
